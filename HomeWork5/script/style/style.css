@@ -1,0 +1,50 @@
+
+
+.click{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    margin-bottom: 20px;
+}
+.btn{
+    width: 200px;
+    height: 20px;
+    margin-bottom: 20px;
+}
+
+
+
+.pink{
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+    margin-bottom: 20px;
+}
+.btn-pink{
+    width: 200px;
+    height: 20px;
+    margin-bottom: 20px;
+}
+
+
+.root{
+    width: 200px;
+    height: 50px;
+    background-color: aquamarine;
+    margin-bottom: 20px;
+}
+
+.btn-root{
+    width: 200px;
+    height: 20px;
+}
+p{
+    text-align: center;
+}
+.blue{
+    color:blue;
+}
+
+.green{
+    color: green;
+}
